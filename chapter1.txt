@@ -1,1 +1,2 @@
-This is the great American novel
+This is the great American novel.
+Second line of text.
